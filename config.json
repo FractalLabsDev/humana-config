@@ -1,0 +1,20 @@
+{
+  "global": {
+    "headerGreeting": "Hi",
+    "backButton": "Back",
+    "tabBar": {
+      "home": "Home",
+      "learn": "Learn",
+      "growth": "Growth",
+      "medical": "Medical"
+    }
+  },
+  "dashboard": {
+    "suggestionsTitle": "Suggestions For Today",
+    "chartTitle": "Your Past Week",
+    "goalTitle": "Your Goal",
+    "articleTitle": "Explore Your Horizons",
+    "articleSubtitle": "Explore Your Horizons",
+    "articleButton": "View Article"
+  }
+}
