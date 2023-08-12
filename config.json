@@ -17,4 +17,8 @@
     "articleSubtitle": "Explore Your Horizons",
     "articleButton": "View Article"
   }
+  "learn": {
+    "title": "Welcome to your learning hub"
+    "subtitle": "You can start with exploring curated collections or browsing categories"
+  }
 }
